@@ -1,0 +1,15 @@
+my-blog
+│
+├── models
+│   ├── user.js
+│   └── post.js
+│
+├── seeders
+│   └── seed.js
+│
+├── routes
+│   └── api.js
+│
+├── app.js
+├── package.json
+└── .env
